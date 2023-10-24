@@ -1,6 +1,8 @@
 # μSAW
 TL074/Matched 3904/PSI powered SMD 2HP sized analog Voltage Controlled Saw Oscillator for Eurorack by Holmes Modular
 
+View module on Modular Grid https://www.modulargrid.net/e/other-unknown-holmes-modular-%CE%BCsaw
+
 This module is currently in the testing phase.
 
 The BOM may also need an update. 
